@@ -1,0 +1,719 @@
+expression,reading,meaning,tags
+ああ,ああ,"Ah!, Oh!",JLPT N5
+会う,あう,"to meet, to see",JLPT N5
+青,あお,blue,JLPT N5
+青い,あおい,blue,JLPT N5
+赤,あか,red,JLPT N5
+赤い,あかい,red,JLPT N5
+明るい,あかるい,bright (in reference to personality or weather); cheerful,JLPT N5
+秋,あき,fall (season),JLPT N5
+開く,あく,"to open, to become open",JLPT N5
+開ける,あける,to open (v.t.),JLPT N5
+上げる,あげる,"to raise, to lift",JLPT N5
+朝,あさ,morning,JLPT N5
+朝御飯,あさごはん,breakfast,JLPT N5
+明後日,あさって,day after tomorrow,JLPT N5
+足; 脚,あし,foot; leg,JLPT N5
+明日,あした,tomorrow,JLPT N5
+あそこ,あそこ,"there, over there, that place",JLPT N5
+遊ぶ,あそぶ,to play; to spend time pleasantly; to hang out,JLPT N5
+暖かい,あたたかい,warm,JLPT N5
+頭,あたま,head,JLPT N5
+新しい,あたらしい,new,JLPT N5
+あちら,あちら,this way (polite),JLPT N5
+暑い,あつい,"hot (in reference to weather), warm",JLPT N5
+熱い,あつい,hot (objects),JLPT N5
+厚い,あつい,"kind, warm(hearted), thick, deep",JLPT N5
+あっち,あっち,over there,JLPT N5
+後,あと,afterwards (later); in the future; the rest; since then,JLPT N5
+あなた,あなた,you,JLPT N5
+兄,あに,(my) older brother (humble),JLPT N5
+姉,あね,(my) older sister (humble),JLPT N5
+アパート,アパート,apartment (abbr.),JLPT N5
+あの,あの,"that over there; like that, that way; um...",JLPT N5
+浴びる,あびる,"to bathe, to shower",JLPT N5
+危ない,あぶない,"dangerous, critical",JLPT N5
+甘い,あまい,"generous, sweet",JLPT N5
+余り,あまり,not very; surplus,JLPT N5
+雨,あめ,rain,JLPT N5
+飴,あめ,(hard) candy,JLPT N5
+洗う,あらう,to wash,JLPT N5
+在る,ある,"to be, to have",JLPT N5
+有る,ある,"to be, to have",JLPT N5
+歩く,あるく,to walk,JLPT N5
+あれ,あれ,that one (over there),JLPT N5
+いい; よい,いい; よい,good,JLPT N5
+いいえ,いいえ,"no, not at all",JLPT N5
+言う,いう,to say,JLPT N5
+家,いえ,"house, home",JLPT N5
+いかが,いかが,"how, in what way",JLPT N5
+行く,いく; ゆく,to go,JLPT N5
+いくつ,いくつ,"how many, how old",JLPT N5
+いくら,いくら,"how much, how many",JLPT N5
+池,いけ,pond,JLPT N5
+医者,いしゃ,doctor; physician,JLPT N5
+椅子,いす,chair,JLPT N5
+忙しい,いそがしい,"busy (people, days)",JLPT N5
+痛い,いたい,hurt; painful; sore,JLPT N5
+一,いち,one,JLPT N5
+一日,いちにち,one day (duration),JLPT N5
+一番,いちばん,"best (most), first, number one",JLPT N5
+いつ,いつ,when,JLPT N5
+五日,いつか,five days; fifth day of the month,JLPT N5
+一緒,いっしょ,together,JLPT N5
+五つ,いつつ,five things,JLPT N5
+いつも,いつも,"always, usually, every time, never (with neg. verb)",JLPT N5
+犬,いぬ,dog,JLPT N5
+今,いま,now,JLPT N5
+意味,いみ,"meaning, significance",JLPT N5
+妹,いもうと,younger sister (humble),JLPT N5
+嫌,いや,"disagreeable, detestable, unpleasant",JLPT N5
+入口,いりぐち,entrance,JLPT N5
+居る,いる,"(humble) to be (animate), to exist",JLPT N5
+要る,いる,to need,JLPT N5
+入れる,いれる,to put in,JLPT N5
+色,いろ,color,JLPT N5
+色々,いろいろ,various,JLPT N5
+上,うえ,"above (up, top, etc.), over, on top of",JLPT N5
+後ろ,うしろ,"back, behind, rear",JLPT N5
+薄い,うすい,"thin, weak",JLPT N5
+歌,うた,a song,JLPT N5
+歌う,うたう,to sing,JLPT N5
+うち,うち,home; house; my place,JLPT N5
+生まれる,うまれる,to be born,JLPT N5
+海,うみ,"sea, beach",JLPT N5
+売る,うる,to sell (v.t.),JLPT N5
+うるさい,うるさい,noisy; annoying,JLPT N5
+上着,うわぎ,"coat, jacket",JLPT N5
+絵,え,a painting; a picture; a drawing,JLPT N5
+映画,えいが,"movie, film",JLPT N5
+映画館,えいがかん,"movie theater, cinema",JLPT N5
+英語,えいご,English (language),JLPT N5
+ええ,ええ,yes,JLPT N5
+駅,えき,station,JLPT N5
+エレベーター,エレベーター,elevator,JLPT N5
+～円,～えん,Yen,JLPT N5
+鉛筆,えんぴつ,pencil,JLPT N5
+お～,お～,honorable ~ (honorific),JLPT N5
+美味しい,おいしい,"delicious, tasty",JLPT N5
+多い,おおい,many; there are a lot,JLPT N5
+大きい,おおきい,"big, large",JLPT N5
+大きな,おおきな,big,JLPT N5
+大勢,おおぜい,great number of people,JLPT N5
+お母さん,おかあさん,mother (formal),JLPT N5
+お菓子,おかし,"confections, sweets, snack",JLPT N5
+お金,おかね,money,JLPT N5
+起きる,おきる,"to get up (e.g., from sleeping); to happen",JLPT N5
+置く,おく,to put; to lay; to place,JLPT N5
+奥さん,おくさん,(someone else's) wife (hon.),JLPT N5
+お酒,おさけ,sake; alcohol,JLPT N5
+お皿,おさら,"plate, dish",JLPT N5
+伯父; 叔父さん,おじさん,"uncle, middle-aged man",JLPT N5
+おじいさん,おじいさん,"grandfather, male senior citizen",JLPT N5
+教える,おしえる,"to teach, to inform, to instruct",JLPT N5
+押す,おす,"to push, to press, to stamp (e.g., a passport)",JLPT N5
+遅い,おそい,slow; (to be) late,JLPT N5
+お茶,おちゃ,(green) tea,JLPT N5
+お手洗い,おてあらい,"toilet, restroom, bathroom (lit., a place to wash one's hands)",JLPT N5
+お父さん,おとうさん,father (formal),JLPT N5
+弟,おとうと,younger brother,JLPT N5
+男,おとこ,"man, male",JLPT N5
+男の子,おとこのこ,boy,JLPT N5
+一昨日,おととい,the day before yesterday,JLPT N5
+おととし,おととし,year before last,JLPT N5
+大人,おとな,adult,JLPT N5
+お腹,おなか,stomach,JLPT N5
+同じ,おなじ,"same, identical",JLPT N5
+お兄さん,おにいさん,(someone else's) older brother (formal),JLPT N5
+お姉さん,おねえさん,older sister (formal),JLPT N5
+伯母さん; 叔母さん,おばさん,aunt,JLPT N5
+おばあさん,おばあさん,"grandmother, female senior-citizen",JLPT N5
+お風呂,おふろ,a bath,JLPT N5
+お弁当,おべんとう,a boxed lunch,JLPT N5
+覚える,おぼえる,"to learn, to commit to memory, to remember, to memorize",JLPT N5
+おまわりさん,おまわりさん,policeman (friendly term),JLPT N5
+重い,おもい,heavy; serious,JLPT N5
+面白い,おもしろい,"interesting, amusing",JLPT N5
+泳ぐ,およぐ,to swim,JLPT N5
+降りる,おりる,to get off,JLPT N5
+終る,おわる,"to finish, to close",JLPT N5
+音楽,おんがく,Music,JLPT N5
+女,おんな,"woman, female",JLPT N5
+女の子,おんなのこ,girl,JLPT N5
+～回,～かい,counter for occurrences (~ times),JLPT N5
+～階,～かい,counter for stories (floors) of a building,JLPT N5
+外国,がいこく,foreign country; abroad,JLPT N5
+外国人,がいこくじん,foreigner,JLPT N5
+会社,かいしゃ,"company, corporation",JLPT N5
+階段,かいだん,stairs,JLPT N5
+買い物,かいもの,shopping,JLPT N5
+買う,かう,to buy,JLPT N5
+返す,かえす,to return something,JLPT N5
+帰る,かえる,"to go back, to go home, to return",JLPT N5
+顔,かお,face (body part),JLPT N5
+かかる,かかる,"it takes (amount of time, money) (v.i.)",JLPT N5
+鍵,かぎ,a lock; a key,JLPT N5
+書く,かく,to write,JLPT N5
+学生,がくせい,student,JLPT N5
+～か月,～かげつ,(number of) months,JLPT N5
+掛ける,かける,"to put on (e.g., glasses); to hang (e.g., on a wall)",JLPT N5
+かける,かける,"to dial/call (e.g., phone); to sit down",JLPT N5
+傘,かさ,"umbrella, parasol",JLPT N5
+貸す,かす,to lend,JLPT N5
+風,かぜ,"wind, breeze",JLPT N5
+風邪,かぜ,"cold, flu",JLPT N5
+方,かた,-- honorific form for 人 (ひと) --; way of doing,JLPT N5
+家族,かぞく,"family, members of a family",JLPT N5
+片仮名,かたかな,katakana,JLPT N5
+～月,～がつ,month of year,JLPT N5
+学校,がっこう,a school,JLPT N5
+カップ,カップ,cup,JLPT N5
+家庭,かてい,home; family,JLPT N5
+角,かど,"corner (e.g., desk, pavement)",JLPT N5
+かばん,かばん,"bag, basket",JLPT N5
+花瓶,かびん,(flower) vase,JLPT N5
+かぶる,かぶる,"to wear, to put on (e.g., a hat on the head)",JLPT N5
+紙,かみ,paper,JLPT N5
+カメラ,カメラ,camera,JLPT N5
+火曜日,かようび,Tuesday,JLPT N5
+辛い,からい,hot and spicy; salty,JLPT N5
+体,からだ,body; health,JLPT N5
+借りる,かりる,"to borrow, to owe",JLPT N5
+～がる,～がる,feel,JLPT N5
+軽い,かるい,"light, non-serious, minor",JLPT N5
+カレー,カレー,curry (abbr. for curry and rice),JLPT N5
+カレンダー,カレンダー,calendar,JLPT N5
+川; 河,かわ,river,JLPT N5
+～側,～がわ,~ side,JLPT N5
+可愛い,かわいい,"cute, adorable",JLPT N5
+漢字,かんじ,kanji; Chinese character,JLPT N5
+木,き,"tree, wood, timber",JLPT N5
+黄色,きいろ,yellow,JLPT N5
+黄色い,きいろい,yellow,JLPT N5
+消える,きえる,"to vanish, to disappear",JLPT N5
+聞く,きく,"to hear, to listen, to ask",JLPT N5
+北,きた,north,JLPT N5
+ギター,ギター,guitar,JLPT N5
+汚い,きたない,"dirty, unclean, filthy",JLPT N5
+喫茶店,きっさてん,café,JLPT N5
+切手,きって,postal (postage) stamps,JLPT N5
+切符,きっぷ,a ticket,JLPT N5
+昨日,きのう,yesterday,JLPT N5
+九,きゅう,nine,JLPT N5
+牛肉,ぎゅうにく,beef,JLPT N5
+牛乳,ぎゅうにゅう,milk,JLPT N5
+今日,きょう,"today, this day",JLPT N5
+教室,きょうしつ,classroom,JLPT N5
+兄弟,きょうだい,"siblings (humble), brothers and sisters",JLPT N5
+去年,きょねん,last year,JLPT N5
+嫌い,きらい,dislike,JLPT N5
+切る,きる,to cut; to hang up (a phone),JLPT N5
+着る,きる,to put on (clothes above your waist); to wear,JLPT N5
+綺麗,きれい,"pretty, clean, tidy",JLPT N5
+キロ; キログラム,キロ; キログラム,(abbr.) kilo (kilogram),JLPT N5
+キロ; キロメートル,キロ; キロメートル,(abbr.) kilo (kilometer),JLPT N5
+銀行,ぎんこう,bank,JLPT N5
+金曜日,きんようび,Friday,JLPT N5
+九,く,nine,JLPT N5
+薬,くすり,medicine,JLPT N5
+下さい,ください,(with te-form verb) please do for me,JLPT N5
+果物,くだもの,fruit,JLPT N5
+口,くち,job opening; mouth,JLPT N5
+靴,くつ,"shoes, footwear",JLPT N5
+靴下,くつした,socks,JLPT N5
+国,くに,country; place of origin,JLPT N5
+曇り,くもり,"cloudiness, cloudy weather",JLPT N5
+曇る,くもる,"to become cloudy, to become dim",JLPT N5
+暗い,くらい,"dark, gloomy",JLPT N5
+～くらい; ぐらい,～くらい; ぐらい,approximate (quantity),JLPT N5
+クラス,クラス,a class,JLPT N5
+グラム,グラム,gram,JLPT N5
+来る,くる,to come,JLPT N5
+車,くるま,"car, vehicle",JLPT N5
+黒,くろ,black,JLPT N5
+黒い,くろい,black; dark,JLPT N5
+警官,けいかん,police officer,JLPT N5
+今朝,けさ,this morning,JLPT N5
+消す,けす,"to erase, to delete, to turn off power",JLPT N5
+結構,けっこう,"splendid; enough, tolerably",JLPT N5
+結婚,けっこん (する),marriage (get married),JLPT N5
+月曜日,げつようび,Monday,JLPT N5
+玄関,げんかん,entrance (to a house or a building),JLPT N5
+元気,げんき,"health(y), energetic",JLPT N5
+～個,～こ,"counter for small items (e.g., fruits, cups)",JLPT N5
+五,ご,five,JLPT N5
+～語,～ご,"word, language",JLPT N5
+公園,こうえん,a park,JLPT N5
+交差点,こうさてん,intersection,JLPT N5
+紅茶,こうちゃ,black tea,JLPT N5
+交番,こうばん,police box,JLPT N5
+声,こえ,voice,JLPT N5
+コート,コート,"coat; court (e.g., tennis)",JLPT N5
+コーヒー,コーヒー,coffee,JLPT N5
+ここ,ここ,"here, this place",JLPT N5
+午後,ごご,"afternoon, P.M.",JLPT N5
+九日,ここのか,nine days; ninth day of the month,JLPT N5
+九つ,ここのつ,nine things,JLPT N5
+午前,ごぜん,"morning, A.M.",JLPT N5
+答える,こたえる,"to answer, to reply",JLPT N5
+こちら,こちら,this person (polite); this way (polite),JLPT N5
+こっち,こっち,this person; this direction; this side,JLPT N5
+コップ,コップ,a tumbler; a glass,JLPT N5
+今年,ことし,this year,JLPT N5
+言葉,ことば,language; word(s); expression(s),JLPT N5
+子供,こども,child(ren),JLPT N5
+この,この,this,JLPT N5
+御飯,ごはん,rice (cooked); meal,JLPT N5
+コピーする,コピーする,to copy,JLPT N5
+困る,こまる,"to be bothered, to have difficulty",JLPT N5
+これ,これ,this one,JLPT N5
+～ころ; ～ごろ,～ころ; ～ごろ,"about, toward, approximately (time)",JLPT N5
+今月,こんげつ,this month,JLPT N5
+今週,こんしゅう,this week,JLPT N5
+こんな,こんな,"such, like this",JLPT N5
+今晩,こんばん,"tonight, this evening",JLPT N5
+さあ,さあ,"come now, well",JLPT N5
+～歳,～さい,~ years old,JLPT N5
+財布,さいふ,wallet,JLPT N5
+魚,さかな,fish,JLPT N5
+先,さき,"future; recent, previous",JLPT N5
+咲く,さく,to bloom,JLPT N5
+作文,さくぶん,essay; composition,JLPT N5
+差す,さす,"to raise (stretch out) hands, to raise (e.g., umbrella)",JLPT N5
+～冊,～さつ,counter for books,JLPT N5
+雑誌,ざっし,"magazine, journal",JLPT N5
+砂糖,さとう,sugar,JLPT N5
+寒い,さむい,cold (in reference to weather),JLPT N5
+さ来年,さらいねん,year after next,JLPT N5
+～さん,～さん,"Mr. ~, Ms. ~",JLPT N5
+三,さん,three,JLPT N5
+散歩,さんぽ (する),"walk, stroll",JLPT N5
+四,し,four,JLPT N5
+～時,～じ,~ o'clock (time),JLPT N5
+塩,しお,salt,JLPT N5
+しかし,しかし,however; but,JLPT N5
+時間,じかん,time,JLPT N5
+～時間,～じかん,~ hours,JLPT N5
+仕事,しごと,"work, job, occupation, employment",JLPT N5
+辞書,じしょ,dictionary,JLPT N5
+静か,しずか,"quiet, calm",JLPT N5
+下,した,"under, below, beneath",JLPT N5
+七,しち,seven,JLPT N5
+質問,しつもん,"question, inquiry",JLPT N5
+自転車,じてんしゃ,bicycle,JLPT N5
+自動車,じどうしゃ,automobile,JLPT N5
+死ぬ,しぬ,to die,JLPT N5
+字引,じびき,dictionary,JLPT N5
+自分,じぶん,"myself, oneself",JLPT N5
+閉まる,しまる,"to close, to be closed",JLPT N5
+閉める,しめる,"to close, to shut",JLPT N5
+締める,しめる,"to tie, to fasten, to tighten",JLPT N5
+じゃ; じゃあ,じゃ; じゃあ,"well, well then",JLPT N5
+写真,しゃしん,a picture; a photograph,JLPT N5
+シャツ,シャツ,shirt,JLPT N5
+シャワー,シャワー,shower,JLPT N5
+十,じゅう,ten,JLPT N5
+～中,～じゅう,"during, while",JLPT N5
+～週間,～しゅうかん,~ weeks,JLPT N5
+授業,じゅぎょう,a class (of school),JLPT N5
+宿題,しゅくだい,homework,JLPT N5
+上手,じょうず,"be good at, skillful",JLPT N5
+丈夫,じょうぶ,"strong, solid, durable",JLPT N5
+醤油,しょうゆ,soy sauce,JLPT N5
+食堂,しょくどう,"cafeteria, dining hall",JLPT N5
+知る,しる,"to know, to understand",JLPT N5
+白,しろ,white,JLPT N5
+白い,しろい,white,JLPT N5
+～人,～じん,counter for people,JLPT N5
+新聞,しんぶん,newspaper,JLPT N5
+水曜日,すいようび,Wednesday,JLPT N5
+吸う,すう,"to breathe in, to suck",JLPT N5
+スカート,スカート,skirt,JLPT N5
+好き,すき,"liking, fondness, love",JLPT N5
+～すぎ,～すぎ,"past; to exceed, ~ too much",JLPT N5
+少ない,すくない,a little; a few,JLPT N5
+すぐに,すぐに,"immediately, soon",JLPT N5
+少し,すこし,"little, few",JLPT N5
+涼しい,すずしい,"cool, refreshing (in reference to weather)",JLPT N5
+～ずつ,～ずつ,at a time,JLPT N5
+ストーブ,ストーブ,heater (lit: stove),JLPT N5
+スプーン,スプーン,spoon,JLPT N5
+スポーツ,スポーツ,sport(s),JLPT N5
+ズボン,ズボン,trousers,JLPT N5
+住む,すむ,"to reside, to live in",JLPT N5
+する,する,"to do, to try; to wear small items (e.g., necktie, watch, etc.)",JLPT N5
+座る,すわる,to sit,JLPT N5
+背,せい,"(one's) height, stature",JLPT N5
+生徒,せいと,student; pupil,JLPT N5
+セーター,セーター,sweater,JLPT N5
+石鹸,せっけん,soap,JLPT N5
+背広,せびろ,men's suit,JLPT N5
+狭い,せまい,narrow; not spacious,JLPT N5
+ゼロ,ゼロ,zero,JLPT N5
+千,せん,thousand,JLPT N5
+先月,せんげつ,last month,JLPT N5
+先週,せんしゅう,last week,JLPT N5
+先生,せんせい,"teacher, professor; master; doctor",JLPT N5
+洗濯,せんたく,"washing, laundry",JLPT N5
+全部,ぜんぶ,"all, entire, whole",JLPT N5
+そう; そうです,そう; そうです,"yes; appears, to be the case",JLPT N5
+掃除,そうじ (する),"cleaning, sweeping",JLPT N5
+そうして; そして,そうして; そして,"and, like that",JLPT N5
+そこ,そこ,"that place, there; bottom, sole",JLPT N5
+そちら,そちら,over there,JLPT N5
+そっち,そっち,over there,JLPT N5
+外,そと,"outside, exterior",JLPT N5
+その,その,that,JLPT N5
+そば,そば,"near, close, beside; Japanese traditional buckwheat noodle",JLPT N5
+空,そら,sky,JLPT N5
+それ,それ,that one,JLPT N5
+それから,それから,"and then, after that",JLPT N5
+それでは,それでは,"in that situation, well then...",JLPT N5
+～台,～だい,counter for vehicles; machines,JLPT N5
+大学,だいがく,college; university,JLPT N5
+大使館,たいしかん,embassy,JLPT N5
+大丈夫,だいじょうぶ,It's ok (all right); No need to worry; Everything is under control,JLPT N5
+大好き,だいすき,"very like-able, like very much",JLPT N5
+大切,たいせつ,important,JLPT N5
+台所,だいどころ,kitchen,JLPT N5
+大変,たいへん,"very; difficult, hard",JLPT N5
+高い,たかい,"tall, high; expensive",JLPT N5
+～だけ,～だけ,"only ~, just ~, as ~",JLPT N5
+沢山,たくさん,"many, much",JLPT N5
+タクシー,タクシー,taxi,JLPT N5
+出す,だす,to take (something) out; to hand in (something),JLPT N5
+～たち,～たち,plural suffix,JLPT N5
+立つ,たつ,to stand up,JLPT N5
+たて,たて,"length, height",JLPT N5
+建物,たてもの,building,JLPT N5
+楽しい,たのしい,"enjoyable, fun",JLPT N5
+頼む,たのむ,"to request, to ask (a favor)",JLPT N5
+たばこ,たばこ,"tobacco, cigarettes",JLPT N5
+多分,たぶん,"perhaps, probably, maybe",JLPT N5
+食べ物,たべもの,food,JLPT N5
+食べる,たべる,to eat,JLPT N5
+卵,たまご,egg,JLPT N5
+誰,だれ,who,JLPT N5
+誰か,だれか,someone,JLPT N5
+誕生日,たんじょうび,birthday,JLPT N5
+段々,だんだん,"gradually, by degrees",JLPT N5
+小さい,ちいさい,"small, little",JLPT N5
+小さな,ちいさな,"small, little",JLPT N5
+近い,ちかい,"near, close by, short",JLPT N5
+違う,ちがう,to be different; to differ; wrong,JLPT N5
+近く,ちかく,nearby; in the neighborhood,JLPT N5
+地下鉄,ちかてつ,"underground train, subway",JLPT N5
+地図,ちず,a map,JLPT N5
+父,ちち,(my) father,JLPT N5
+茶色,ちゃいろ,brown,JLPT N5
+茶碗,ちゃわん,rice bowl,JLPT N5
+～中,～ちゅう,"during, while ~ing",JLPT N5
+丁度,ちょうど,"just, right, exactly",JLPT N5
+ちょっと,ちょっと,"a little, somewhat; just a little, somewhat",JLPT N5
+一日,ついたち,one day; first day of the month,JLPT N5
+使う,つかう,to use,JLPT N5
+疲れる,つかれる,to get (become) tired; to become fatigued,JLPT N5
+次,つぎ,next,JLPT N5
+着く,つく,"to arrive at, to reach",JLPT N5
+机,つくえ,desk,JLPT N5
+作る,つくる,"to make, to create",JLPT N5
+つける,つける,"to turn on (e.g., a light); to take",JLPT N5
+勤める,つとめる,to work (for),JLPT N5
+つまらない,つまらない,"boring, dull; insignificant",JLPT N5
+冷たい,つめたい,"cold (things, people)",JLPT N5
+強い,つよい,"strong, powerful",JLPT N5
+手,て,hand,JLPT N5
+テープ,テープ,tape,JLPT N5
+テープレコーダー,テープレコーダー,tape recorder,JLPT N5
+テーブル,テーブル,table,JLPT N5
+出かける,でかける,to go out; to depart,JLPT N5
+手紙,てがみ,letter,JLPT N5
+できる,できる,to be able to (to accomplish),JLPT N5
+出口,でぐち,an exit,JLPT N5
+テスト,テスト,test,JLPT N5
+では,では,"then, well, so",JLPT N5
+デパート,デパート,(abbr.) department store,JLPT N5
+でも,でも,"but, however",JLPT N5
+出る,でる,"to appear, to leave",JLPT N5
+テレビ,テレビ,"television, TV",JLPT N5
+天気,てんき,weather,JLPT N5
+電気,でんき,"electricity, (electric) light",JLPT N5
+電車,でんしゃ,electric train,JLPT N5
+電話,でんわ,a telephone,JLPT N5
+戸,と,door (Japanese style),JLPT N5
+～度,～ど,counter for occurrences; ~ degree; ~ point,JLPT N5
+ドア,ドア,door (Western style),JLPT N5
+トイレ,トイレ,bathroom; toilet,JLPT N5
+どう,どう,"how, in what way",JLPT N5
+どうして,どうして,"why, for what reason",JLPT N5
+どうぞ,どうぞ,"please, kindly, by all means",JLPT N5
+動物,どうぶつ,animal,JLPT N5
+どうも,どうも,Thank you; somehow; no matter how hard one may try,JLPT N5
+十,(〜を) とお,ten (~),JLPT N5
+遠い,とおい,"far (away), distant",JLPT N5
+十日,とおか,ten days; tenth day of the month,JLPT N5
+～時,～とき,at the time of ~,JLPT N5
+時々,ときどき,sometimes,JLPT N5
+時計,とけい,a watch; a clock,JLPT N5
+どこ,どこ,"where, what place",JLPT N5
+所,ところ,place,JLPT N5
+年,とし,"year, age",JLPT N5
+図書館,としょかん,library,JLPT N5
+どちら,どちら,which (one) (way); where (polite),JLPT N5
+どっち,どっち,"which one, which way",JLPT N5
+とても,とても,"very (much), greatly, exceedingly",JLPT N5
+どなた,どなた,who,JLPT N5
+隣,となり,"next to, next door to",JLPT N5
+どの,どの,which,JLPT N5
+飛ぶ,とぶ,"to fly, to hop",JLPT N5
+止まる,とまる,to come to a halt,JLPT N5
+友達,ともだち,friend,JLPT N5
+土曜日,どようび,Saturday,JLPT N5
+鳥,とり,"chicken (lit., bird)",JLPT N5
+鶏肉,とりにく,chicken meat,JLPT N5
+取る,とる,to take (a class); to get (a grade),JLPT N5
+撮る,とる,"to take (a photo), to make (a film)",JLPT N5
+どれ,どれ,which one,JLPT N5
+どんな,どんな,"what, what kind of",JLPT N5
+ない,ない,"there isn't, doesn't have",JLPT N5
+ナイフ,ナイフ,knife,JLPT N5
+中,なか,"inside, middle, among",JLPT N5
+長い,ながい,"long, lengthy",JLPT N5
+鳴く,なく,to make sound (animal),JLPT N5
+無くす,なくす,to lose something,JLPT N5
+なぜ,なぜ,why (same as どうして),JLPT N5
+夏,なつ,summer,JLPT N5
+夏休み,なつやすみ,summer vacation,JLPT N5
+～など,～など,et cetera,JLPT N5
+七つ,ななつ,seven things,JLPT N5
+何,なん; なに,what,JLPT N5
+七日,なのか,seven days; seventh day (of the month),JLPT N5
+名前,なまえ,name,JLPT N5
+習う,ならう,to learn,JLPT N5
+並ぶ,ならぶ,"to line up, to stand in a line (v.i.)",JLPT N5
+並べる,ならべる,to put (things) side by side; to line up,JLPT N5
+なる,なる,to become,JLPT N5
+何～,なん～,what sort of ~,JLPT N5
+二,に,two,JLPT N5
+にぎやか,にぎやか,"bustling, busy",JLPT N5
+肉,にく,meat,JLPT N5
+西,にし,west,JLPT N5
+～日,～にち,"~ day of the month, for ~ days",JLPT N5
+日曜日,にちようび,Sunday,JLPT N5
+荷物,にもつ,luggage; baggage,JLPT N5
+ニュース,ニュース,news,JLPT N5
+庭,にわ,garden,JLPT N5
+～人,～にん,counter for people,JLPT N5
+脱ぐ,ぬぐ,to take off (clothes),JLPT N5
+温い,ぬるい,lukewarm,JLPT N5
+ネクタイ,ネクタイ,"tie, necktie",JLPT N5
+猫,ねこ,cat,JLPT N5
+寝る,ねる,to sleep; to go to sleep; to go to bed,JLPT N5
+～年,～ねん,~ years,JLPT N5
+ノート,ノート,notebook,JLPT N5
+登る,のぼる,to climb,JLPT N5
+飲み物,のみもの,"drink, beverage",JLPT N5
+飲む,のむ,to drink,JLPT N5
+乗る,のる,"to get on, to ride in, to board",JLPT N5
+歯,は,tooth,JLPT N5
+パーティー,パーティー,a party,JLPT N5
+はい,はい,yes,JLPT N5
+～杯,～はい,counter for cupfuls,JLPT N5
+灰皿,はいざら,ashtray,JLPT N5
+入る,はいる,"to enter, to contain, to hold",JLPT N5
+葉書,はがき,postcard,JLPT N5
+はく,はく,to put on (items below your waist),JLPT N5
+箱,はこ,box,JLPT N5
+橋,はし,bridge,JLPT N5
+箸,はし,chopsticks,JLPT N5
+始まる,はじまる,(something) begins,JLPT N5
+初め; 始め,はじめ,"beginning, start",JLPT N5
+初めて,はじめて,for the first time,JLPT N5
+走る,はしる,to run,JLPT N5
+バス,バス,bus; bath; bass,JLPT N5
+バター,バター,butter,JLPT N5
+二十歳,はたち,20 years old,JLPT N5
+働く,はたらく,to work,JLPT N5
+八,はち,eight,JLPT N5
+二十日,はつか,"twenty days, twentieth (day of the month)",JLPT N5
+花,はな,flower,JLPT N5
+鼻,はな,nose,JLPT N5
+話,はなし,"talk (chat), story",JLPT N5
+話す,はなす,to speak,JLPT N5
+母,はは,(my) mother,JLPT N5
+早い,はやい,early,JLPT N5
+速い,はやい,"fast, quick",JLPT N5
+春,はる,spring,JLPT N5
+貼る,はる,to post; to paste; to attach,JLPT N5
+晴れ,はれ,clear (sunny) weather,JLPT N5
+晴れる,はれる,to be sunny,JLPT N5
+半,はん,"half (e.g., にじはん | half-past two)",JLPT N5
+晩,ばん,evening,JLPT N5
+～番,～ばん,~st; ~th best,JLPT N5
+パン,パン,bread,JLPT N5
+ハンカチ,ハンカチ,handkerchief,JLPT N5
+番号,ばんごう,"number, series of digits",JLPT N5
+晩御飯,ばんごはん,"dinner, evening meal",JLPT N5
+半分,はんぶん,half,JLPT N5
+東,ひがし,east,JLPT N5
+～匹,～ひき,counter for small animals,JLPT N5
+引く,ひく,"to pull, to draw; subtract",JLPT N5
+弾く,ひく,to play (a string instrument or piano),JLPT N5
+低い,ひくい,"short, low",JLPT N5
+飛行機,ひこうき,airplane,JLPT N5
+左,ひだり,left hand side,JLPT N5
+人,ひと,"man, person",JLPT N5
+一つ,ひとつ,one thing,JLPT N5
+一月,ひとつき,one month,JLPT N5
+一人,ひとり,one person,JLPT N5
+暇,ひま,"free time, leisure",JLPT N5
+百,ひゃく,hundred,JLPT N5
+病院,びょういん,hospital,JLPT N5
+病気,びょうき,illness; sickness,JLPT N5
+平仮名,ひらがな,hiragana,JLPT N5
+昼,ひる,"noon, daytime",JLPT N5
+昼御飯,ひるごはん,"lunch, midday meal",JLPT N5
+広い,ひろい,spacious; wide; broad,JLPT N5
+フィルム,フィルム,film (roll of),JLPT N5
+封筒,ふうとう,envelope,JLPT N5
+プール,プール,swimming pool,JLPT N5
+フォーク,フォーク,fork,JLPT N5
+吹く,ふく,"to blow (wind, etc.)",JLPT N5
+服,ふく,clothes,JLPT N5
+二つ,ふたつ,two things,JLPT N5
+豚肉,ぶたにく,pork,JLPT N5
+二人,ふたり,two people,JLPT N5
+二日,ふつか,two days; second day of the month,JLPT N5
+太い,ふとい,"fat, thick",JLPT N5
+冬,ふゆ,winter,JLPT N5
+降る,ふる,"to precipitate, to fall (e.g., rain, snow, etc.)",JLPT N5
+古い,ふるい,"old (in reference to objects, not people), aged, ancient",JLPT N5
+～分,～ふん,~ minutes,JLPT N5
+文章,ぶんしょう,"sentence, text",JLPT N5
+ページ,ページ,a page,JLPT N5
+下手,へた,"unskillful, poor",JLPT N5
+ベッド,ベッド,bed,JLPT N5
+ペット,ペット,pet,JLPT N5
+部屋,へや,a room,JLPT N5
+辺,へん,"area, vicinity",JLPT N5
+ペン,ペン,pen,JLPT N5
+勉強,べんきょう (する),study,JLPT N5
+便利,べんり,"convenient, handy",JLPT N5
+帽子,ぼうし,hat; cap,JLPT N5
+ボールペン,ボールペン,ball-point pen,JLPT N5
+外,ほか,"other, the rest",JLPT N5
+ポケット,ポケット,pocket,JLPT N5
+欲しい,ほしい,"to want, in need of",JLPT N5
+ポスト,ポスト,"mailbox; post, position",JLPT N5
+細い,ほそい,"thin, slender, fine",JLPT N5
+ボタン,ボタン,button,JLPT N5
+ホテル,ホテル,hotel,JLPT N5
+本,ほん,book,JLPT N5
+～本,～ほん,counter for long cylindrical things,JLPT N5
+本棚,ほんだな,bookshelf,JLPT N5
+本当,ほんとう,"real, true",JLPT N5
+～枚,～まい,counter for flat things,JLPT N5
+毎朝,まいあさ,every morning,JLPT N5
+毎月,まいげつ; まいつき,"every month, monthly",JLPT N5
+毎週,まいしゅう,every week,JLPT N5
+毎日,まいにち,every day,JLPT N5
+毎年,まいねん; まいとし,"every year, yearly, annually",JLPT N5
+毎晩,まいばん,every night,JLPT N5
+前,まえ,"before, in front",JLPT N5
+～前,～まえ,in front of ~,JLPT N5
+曲る,まがる,"to turn, to bend",JLPT N5
+まずい,まずい,"terrible (in reference to food), unappetizing, unpleasant (taste)",JLPT N5
+また,また,and; furthermore,JLPT N5
+まだ,まだ,"yet, still, besides",JLPT N5
+町,まち,town; city,JLPT N5
+待つ,まつ,to wait,JLPT N5
+まっすぐ,まっすぐ,"straight (ahead), direct",JLPT N5
+マッチ,マッチ,match,JLPT N5
+窓,まど,window,JLPT N5
+丸い; 円い,まるい,"round, circular",JLPT N5
+万,まん,ten thousand,JLPT N5
+万年筆,まんねんひつ,fountain pen,JLPT N5
+磨く,みがく,to brush (teeth); to polish,JLPT N5
+右,みぎ,right hand side,JLPT N5
+短い,みじかい,short (length),JLPT N5
+水,みず,water,JLPT N5
+店,みせ,"store, shop",JLPT N5
+見せる,みせる,"to show, to display",JLPT N5
+道,みち,"road, street; way, directions",JLPT N5
+三日,みっか,"three days, third day of the month",JLPT N5
+三つ,みっつ,three things,JLPT N5
+緑,みどり,green,JLPT N5
+皆さん,みなさん,"all of you, everyone",JLPT N5
+南,みなみ,South,JLPT N5
+耳,みみ,ear,JLPT N5
+見る,みる,"to see, to look",JLPT N5
+みんな,みんな,"all, everyone, everybody",JLPT N5
+六日,むいか,six days; sixth day of month,JLPT N5
+向こう,むこう,"beyond, over there",JLPT N5
+難しい,むずかしい,difficult,JLPT N5
+六つ,むっつ,six things,JLPT N5
+村,むら,village,JLPT N5
+目,め,eye(s),JLPT N5
+メートル,メートル,meter,JLPT N5
+眼鏡,めがね,eye glasses,JLPT N5
+もう,もう,already; again; more,JLPT N5
+木曜日,もくようび,Thursday,JLPT N5
+もしもし,もしもし,Hello? (used on the phone),JLPT N5
+持つ,もつ,"to hold, to carry; to possess",JLPT N5
+もっと,もっと,more,JLPT N5
+物,もの,thing (concrete object),JLPT N5
+門,もん,gate,JLPT N5
+問題,もんだい,a problem,JLPT N5
+～屋,～や,~ shop,JLPT N5
+八百屋,やおや,greengrocer,JLPT N5
+野菜,やさい,vegetable,JLPT N5
+易しい,やさしい,"easy, plain, simple",JLPT N5
+安い,やすい,inexpensive; cheap (things),JLPT N5
+休み,やすみ,holiday; day off; absence,JLPT N5
+休む,やすむ,"to rest, to have a break, to get time off",JLPT N5
+八つ,やっつ,eight things,JLPT N5
+山,やま,mountain,JLPT N5
+やる,やる,"to do; to give (to pets, parents, siblings, etc.)",JLPT N5
+夕方,ゆうがた,"late afternoon (typically just before dinner time), evening",JLPT N5
+夕飯,ゆうはん,"dinner, supper, evening meal",JLPT N5
+郵便局,ゆうびんきょく,post office,JLPT N5
+昨夜,ゆうべ,last night,JLPT N5
+有名,ゆうめい,famous,JLPT N5
+雪,ゆき,snow,JLPT N5
+ゆっくりと,ゆっくりと,"slowly, at ease",JLPT N5
+八日,ようか,eight days; eighth day of the month,JLPT N5
+洋服,ようふく,Western-style clothes,JLPT N5
+よく,よく,"frequently, often (much); well, skillfully",JLPT N5
+横,よこ,beside; side; width,JLPT N5
+四日,よっか,four days; fourth day of the month,JLPT N5
+四つ,よっつ,four things,JLPT N5
+呼ぶ,よぶ,to call (one's name); to invite,JLPT N5
+読む,よむ,to read,JLPT N5
+夜,よる,"evening, night",JLPT N5
+弱い,よわい,weak,JLPT N5
+来月,らいげつ,next month,JLPT N5
+来週,らいしゅう,next week,JLPT N5
+来年,らいねん,next year,JLPT N5
+ラジオ,ラジオ,radio,JLPT N5
+ラジオカセ,ラジオカセ,radio cassette player,JLPT N5
+りっぱ,りっぱ,"splendid, fine",JLPT N5
+留学生,りゅうがくせい,international student,JLPT N5
+両親,りょうしん,"parents (lit., both parents)",JLPT N5
+料理,りょうり,cooking; cuisine,JLPT N5
+旅行,りょこう,"travel, trip",JLPT N5
+零,れい,"zero, nought",JLPT N5
+冷蔵庫,れいぞうこ,refrigerator,JLPT N5
+レコード,レコード,record,JLPT N5
+レストラン,レストラン,restaurant,JLPT N5
+練習,れんしゅう (する),(to) practice,JLPT N5
+廊下,ろうか,corridor,JLPT N5
+六,ろく,six,JLPT N5
+ワイシャツ,ワイシャツ,"shirt (lit: white shirt), business shirt",JLPT N5
+若い,わかい,young,JLPT N5
+分かる,わかる,to understand,JLPT N5
+忘れる,わすれる,to forget,JLPT N5
+私,わたし,"I, myself",JLPT N5
+私,わたくし,"I (formal), myself, private affairs",JLPT N5
+渡す,わたす,to hand (something) over (v.t.); to get across,JLPT N5
+渡る,わたる,"to cross over, to go across",JLPT N5
+悪い,わるい,"bad, sinful; inferior",JLPT N5
