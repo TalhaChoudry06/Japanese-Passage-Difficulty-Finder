@@ -14,6 +14,7 @@ def retrieve_input():
     inputValue= text_box.get("1.0","end-1c")
     tokens = [output.tokenized(inputValue)]
     print(*tokens)
+    print(len(inputValue))
     output.lemma_Info(inputValue)
     
 
