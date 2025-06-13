@@ -1,5 +1,5 @@
 from tkinter import *
-import output
+from scripts import featureEnginering
 
 master = Tk()
 master.title("Japanese Sentence Morphology")
@@ -12,10 +12,10 @@ text_box.focus_set()
 
 def retrieve_input():
     inputValue= text_box.get("1.0","end-1c")
-    tokens = [output.tokenized(inputValue)]
+    tokens = [featureEnginering.tokenize(inputValue)]
     print(*tokens)
-    print(len(inputValue))
-    output.lemma_Info(inputValue)
+    print(len(*tokens))
+    #output.lemma_Info(inputValue)
     
 
 b = Button(master, text = "OK", width = 10, command = retrieve_input)
