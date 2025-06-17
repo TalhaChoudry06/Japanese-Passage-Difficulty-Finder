@@ -1,5 +1,5 @@
 from tkinter import *
-from scripts import featureEnginering
+from scripts.feature_engineering import tokenizer
 
 master = Tk()
 master.title("Japanese Sentence Morphology")
@@ -12,7 +12,7 @@ text_box.focus_set()
 
 def retrieve_input():
     inputValue= text_box.get("1.0","end-1c")
-    tokens = [featureEnginering.tokenize(inputValue)]
+    tokens = [tokenizer.tokenize(inputValue)]
     print(*tokens)
     print(len(*tokens))
     #output.lemma_Info(inputValue)

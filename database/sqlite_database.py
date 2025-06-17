@@ -1,7 +1,7 @@
 import sqlite3
 try:
 
-    conn = sqlite3.connect('database/sentences.db')
+    conn = sqlite3.connect('database/sampled_sentences - Copy.db')
     cursor = conn.cursor()
 
     sql = "select sqlite_version();"
@@ -9,19 +9,34 @@ try:
     results = cursor.fetchall()
     print(results)
 
-    #adding coloumn level filling with default 0;
-    sql = """ALTER TABLE sentences ADD level TEXT DEFAULT '0'"""
+    # #adding coloumn level filling with default 0;
+    # sql = """ALTER TABLE sentences ADD level TEXT DEFAULT '0'"""
+    # cursor = conn.cursor()
+    # cursor.execute(sql)
+    # conn.commit()
+    # print ("altering ok")
+
+    # #adding coloumn tokens filling with default 0;
+    # sql = """ALTER TABLE sentences ADD tokens TEXT DEFAULT '0'"""
+    # cursor = conn.cursor()
+    # cursor.execute(sql)
+    # conn.commit()
+    # print ("altering ok")
+
+    #adding coloumn avg_jlpt filling with default 0;
+    sql = """ALTER TABLE sentences ADD avg_jlpt TEXT DEFAULT '0'"""
     cursor = conn.cursor()
     cursor.execute(sql)
     conn.commit()
     print ("altering ok")
 
-    #adding coloumn tokens filling with default 0;
-    sql = """ALTER TABLE sentences ADD tokens TEXT DEFAULT '0'"""
+    #adding coloumn max_jlpt filling with default 0;
+    sql = """ALTER TABLE sentences ADD max_jlpt TEXT DEFAULT '0'"""
     cursor = conn.cursor()
     cursor.execute(sql)
     conn.commit()
     print ("altering ok")
+
 
     cursor.close()
 
