@@ -64,9 +64,10 @@ To run the application, execute:
 
 - `main.py` — Entry point to launch the GUI application  
 - `scripts/feature_engineering.py` — Tokenization and feature extraction logic  
-- `models/` — Serialized machine learning models and scalers (`.joblib` files)  
+- `classifier/` — Serialized machine learning models and scalers (`.joblib` files)  
 - `database/` — SQLite database containing JLPT vocabulary and tags  
-- Other supporting modules and scripts  
+- `scripts/` - Various scipts used to clean data and other funtions
+- `data/` - Original csv files that had JLPT vocabulary data
 
 ---
 
