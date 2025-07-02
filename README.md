@@ -54,6 +54,29 @@ This project is a machine learning-based application that classifies Japanese se
 
 To run the application, execute:
 
-```bash
-python main.py
+    ```bash
+    python main.py
+    ```
+    
+---
+
+## Project Structure
+
+- `main.py` — Entry point to launch the GUI application  
+- `scripts/feature_engineering.py` — Tokenization and feature extraction logic  
+- `models/` — Serialized machine learning models and scalers (`.joblib` files)  
+- `database/` — SQLite database containing JLPT vocabulary and tags  
+- Other supporting modules and scripts  
+
+---
+
+## Model Performance
+
+The classifier achieves approximately **95% accuracy** in predicting sentence difficulty levels, with **precision**, **recall**, and **F1-scores** above **90%** across all JLPT levels.
+
+---
+
+## License
+
+[MIT License](LICENSE)
 
