@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+joblib
+tk   
+sqlite3 
+fugashi
+spacy
+datasets
