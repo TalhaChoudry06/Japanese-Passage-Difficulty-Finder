@@ -1,67 +1,59 @@
-#Japanese Sentence Difficulty Classifier
+# Japanese Sentence Difficulty Classifier
+
 This project is a machine learning-based application that classifies Japanese sentences by their JLPT (Japanese Language Proficiency Test) difficulty levels (N5 to N1). The application extracts linguistic features from input sentences, uses a trained classifier to estimate the difficulty, and displays detailed token analysis in a graphical user interface (GUI).
 
-Features
-Tokenizes Japanese sentences using a custom tokenizer
+---
 
-Extracts features like JLPT vocabulary counts and average JLPT level
+## Features
 
-Classifies sentences into JLPT difficulty levels using a trained machine learning model
+- Tokenizes Japanese sentences using a custom tokenizer  
+- Extracts features like JLPT vocabulary counts and average JLPT level  
+- Classifies sentences into JLPT difficulty levels using a trained machine learning model  
+- Stores vocabulary and tags in an SQLite database for fast lookup  
+- Provides a Tkinter-based GUI for user-friendly interaction  
+- Saves and loads models and scalers using joblib for efficient deployment  
 
-Stores vocabulary and tags in an SQLite database for fast lookup
+---
 
-Provides a Tkinter-based GUI for user-friendly interaction
+## Technologies & Libraries Used
 
-Saves and loads models and scalers using joblib for efficient deployment
+- Python 3  
+- Tkinter (GUI)  
+- SQLite (Database)  
+- pandas, NumPy (Data processing)  
+- scikit-learn (Machine learning)  
+- joblib (Model persistence)  
 
-Technologies & Libraries Used
-Python 3
+---
 
-Tkinter (GUI)
+## Installation
 
-SQLite (Database)
+1. Clone this repository:
 
-pandas, NumPy (Data processing)
+    ```bash
+    git clone https://github.com/MangoMangoes245/Japanese-Passage-Difficulty-Finder.git
+    cd Japanese-Passage-Difficulty-Finder
+    ```
 
-scikit-learn (Machine learning)
+2. (Optional) Create and activate a virtual environment:
 
-joblib (Model persistence)
+    ```bash
+    python -m venv venv
+    source venv/bin/activate  # On Windows: venv\Scripts\activate
+    ```
 
-Installation
-Clone this repository:
+3. Install required packages:
 
-bash
-Copy
-Edit
-git clone https://github.com/MangoMangoes245/Japanese-Passage-Difficulty-Finder.git
-cd Japanese-Passage-Difficulty-Finder
-Install required packages:
+    ```bash
+    pip install -r requirements.txt
+    ```
 
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Usage
+---
+
+## Usage
+
 To run the application, execute:
 
-bash
-Copy
-Edit
+```bash
 python main.py
-This will launch the GUI where you can input Japanese sentences and receive difficulty classification results with token analysis.
-
-Project Structure
-main.py — Entry point to launch the GUI application
-
-scripts/feature_engineering.py — Tokenization and feature extraction logic
-
-models/ — Serialized machine learning models and scalers (.joblib files)
-
-database/ — SQLite database containing JLPT vocabulary and tags
-
-Model Performance
-The classifier achieves approximately 95% accuracy in predicting sentence difficulty levels, with precision, recall, and F1-scores above 90% across all JLPT levels.
-
-License
-MIT License
 
