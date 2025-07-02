@@ -1,7 +1,7 @@
 import sqlite3
 try:
 
-    conn = sqlite3.connect('database/sampled_sentences - Copy.db')
+    conn = sqlite3.connect('database/sampled_sentences.db')
     cursor = conn.cursor()
 
     sql = "select sqlite_version();"

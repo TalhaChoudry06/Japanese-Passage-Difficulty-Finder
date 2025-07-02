@@ -1,17 +1,16 @@
 import sys
 import sqlite3
 import re
-import fugashi
 import time
 from datasets import load_dataset
 from tqdm import tqdm
+import spacy
 
+nlp = spacy.load("ja_ginza")
 start = time.time()
 
 # Load stopwords dataset
-dataset = load_dataset("taishi-i/nagisa_stopwords")
-stopwords = dataset["nagisa_stopwords"]["words"]
-tagger = fugashi.Tagger()
+stopwords = []
 
 # Regex (for potential future features, not used here yet)
 kanji_re = re.compile(r'[一-龯]')
@@ -20,7 +19,8 @@ katakana_re = re.compile(r'[ァ-ン]')
 
 # Tokenizer function
 def tokenize(text):
-    return [word.surface for word in tagger(text) if word.surface not in stopwords]
+    doc = nlp(text)
+    return [token.text for token in doc if not token.is_punct]
 
 if __name__ == "__main__":
     # Connect to database
